@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Harmonic</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="sign_up">Registrarse</string>
+    <string name="sign_in">Ingresar</string>
+    <string name="registro_tv">Registrar Usuario</string>
+    <string name="til_hint_correo">Correo Electrónico</string>
+    <string name="til_hint_password">Contraseña</string>
+    <string name="til_nombre_completo">Nombre Completo </string>
+    <string name="rb_estudiante">Estudiante</string>
+    <string name="rb_instructor">Instructor</string>
+    <string name="btn_registrar">Registrar</string>
+    <string name="btn_cancelar">Cancelar </string>
+    <string name="tv_role_question">¿Qué quieres ser?</string>
+    <string name="is_required">Requerido</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="instrument">Instrumento</string>
+    <string name="tv_ingresar">Ingresar</string>
+    <string name="nunca_dejes_de_aprender">Nunca dejes de aprender</string>
+    <string name="bienvenido_a">¡Bienvenido!</string>
+</resources>

@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "321912322230",
+    "firebase_url": "https://harmonic-app.firebaseio.com",
+    "project_id": "harmonic-app",
+    "storage_bucket": "harmonic-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321912322230:android:e5ea7a56e5e8e92b",
+        "android_client_info": {
+          "package_name": "co.com.harmonic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "321912322230-fd5fdqm7fb8jr7kvrpolk1keu0mmaael.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.com.harmonic",
+            "certificate_hash": "7049d36a247e6a92e2be1cc426cb260f2287a2f8"
+          }
+        },
+        {
+          "client_id": "321912322230-9spnpf3qjah1ugnt9qj0qutgavs96p9v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "co.com.harmonic",
+            "certificate_hash": "76c22c2afc01063c7aa8bcbb8c91af29e7d51e9e"
+          }
+        },
+        {
+          "client_id": "321912322230-fbvq0asrvqq1c8m5v4n47jktgrem7q0g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJrP0DloU2_IVxtM5E67_WMQuZOnidbbA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "321912322230-fbvq0asrvqq1c8m5v4n47jktgrem7q0g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
